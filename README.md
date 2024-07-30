@@ -1,2 +1,2 @@
 # Leetcode-Solutions
-Solutions to leetcode problems I've solved
+Solutions to Leetcode problems I've solved or been able to code out
